@@ -9,7 +9,7 @@
 
 ## Overview
 
-This project demonstrates a Retrieval‑Augmented Generation (RAG) pipeline that ingests content from a public Notion page and enables context‑aware question answering using the OpenAI ChatGPT API.
+This project demonstrates a Retrieval‑Augmented Generation (RAG) pipeline that ingests content from a public Notion page and enables context‑aware question answering using the OpenAI ChatGPT API. This Notion page was created by me during an AI Safety course I attended.
 
 Source Notion Page:
 https://jalvarezc.notion.site/AIS-5b9ffa2c525f481ea08ed801d8ef7896
