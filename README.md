@@ -48,7 +48,7 @@ Key chain function: rag_chain_openai(db_path)
 
 ## Technologies
 
-- Python 3.8+
+- Python
 
 - Notion API (notion-client)
 
